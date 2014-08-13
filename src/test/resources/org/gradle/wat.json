@@ -1,0 +1,44 @@
+{
+	"Envelope":{
+		"Format":"WARC",
+		"WARC-Header-Length":"273",
+		"Block-Digest":"sha1:N75PKRENNGRVMMX3SR6KGP7B6PS77UVE",
+		"Actual-Content-Length":"371",
+		"WARC-Header-Metadata":{
+			"WARC-Type":"warcinfo",
+			"WARC-Filename":"CC-MAIN-20131218055411-00099-ip-10-33-133-15.ec2.internal.warc.gz",
+			"WARC-Date":"2014-01-03T13:39:40Z",
+			"Content-Length":"371",
+			"WARC-Record-ID":"<urn:uuid:8746bab2-8935-464b-8d99-02c4890ead94>",
+			"Content-Type":"application/warc-fields"
+		},
+		"Payload-Metadata":{
+			"Trailing-Slop-Length":"0",
+			"Actual-Content-Type":"application/warc-fields",
+			"Actual-Content-Length":"371",
+			"Headers-Corrupt":true,
+			"WARC-Info-Metadata":{
+				"robots":"classic",
+				"software":"Nutch 1.6 (CC)/CC WarcExport 1.0",
+				"description":"Wide crawl of the web with URLs provided by Blekko for Winter 2013",
+				"hostname":"ip-10-33-133-15.ec2.internal",
+				"format":"WARC File Format 1.0",
+				"isPartOf":"CC-MAIN-2013-48",
+				"operator":"CommonCrawl Admin",
+				"publisher":"CommonCrawl"
+			}
+		}
+	},
+	"Container":{
+		"Compressed":true,
+		"Gzip-Metadata":{
+			"Footer-Length":"8",
+			"Deflate-Length":"454",
+			"Header-Length":"10",
+			"Inflated-CRC":"-1170024220",
+			"Inflated-Length":"648"
+		},
+		"Offset":"0",
+		"Filename":"CC-MAIN-20131218055411-00099-ip-10-33-133-15.ec2.internal.warc.gz"
+	}
+}
